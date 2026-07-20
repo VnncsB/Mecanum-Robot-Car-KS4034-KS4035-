@@ -1,8 +1,8 @@
-# 🤖 Mecanum Robot Car - KS4034 / KS4035
+# Mecanum Robot Car - KS4034 / KS4035
 
 Projeto de robótica educacional desenvolvido com o kit **Keyestudio micro:bit 4WD Mecanum Robot Car Kit V2.0 (KS4034/KS4035)**, um carrinho robô de 4 rodas Mecanum controlado pela placa **BBC micro:bit**.
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi proposto pelo **professor Robson Marinho** como forma de aprendizado prático em robótica e programação embarcada, desenvolvido no **Laboratório InovaMech**.
 
@@ -12,7 +12,7 @@ O robô foi montado e programado por:
 
 A montagem e a programação seguiram os tutoriais e os códigos oficiais disponibilizados pela Keyestudio em [fs.keyestudio.com/KS4034-4035](https://fs.keyestudio.com/KS4034-4035), adaptados e organizados neste repositório para fins de estudo e documentação do processo.
 
-## 🚗 Sobre o Kit KS4034/KS4035
+## Sobre o Kit KS4034/KS4035
 
 O KS4034/KS4035 é um carrinho robô DIY dedicado à placa micro:bit, equipado com:
 
@@ -28,7 +28,7 @@ O KS4034/KS4035 é um carrinho robô DIY dedicado à placa micro:bit, equipado c
 
 **Alimentação:** 2 baterias 18650 (não inclusas) | **Tensão de operação:** 5V | **Tensão de entrada:** DC 6V–9V
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```
 Mecanum-Robot-Car-KS4034-KS4035-
@@ -38,7 +38,7 @@ Mecanum-Robot-Car-KS4034-KS4035-
 └── README.md    # Este arquivo
 ```
 
-## 🛠️ Programação
+## Programação
 
 O robô pode ser programado de duas formas, conforme os tutoriais oficiais da Keyestudio:
 
@@ -52,7 +52,7 @@ Entre as funcionalidades programadas/exploradas no projeto estão:
 - Efeitos de iluminação com LEDs RGB;
 - Reprodução de sons com o buzzer.
 
-## 🎯 Objetivo Educacional
+## Objetivo Educacional
 
 O projeto teve como principal objetivo aplicar, na prática, conceitos de:
 - Robótica móvel e cinemática de rodas Mecanum;
@@ -60,12 +60,12 @@ O projeto teve como principal objetivo aplicar, na prática, conceitos de:
 - Eletrônica e integração de sensores/atuadores;
 - Trabalho em equipe e documentação técnica de projetos.
 
-## 📚 Referências
+## Referências
 
 - Tutorial e recursos oficiais do fabricante: [fs.keyestudio.com/KS4034-4035](https://fs.keyestudio.com/KS4034-4035)
 - Documentação Keyestudio Wiki: [wiki.keyestudio.com](https://wiki.keyestudio.com/KS4034(KS4034F)KS4035(KS4035F)_Keyestudio_Microbit_4WD_Mecanum_Robot_Car_V2.0)
 
-## 👥 Autores
+## Autores
 
 | Nome | Função |
 |------|--------|
