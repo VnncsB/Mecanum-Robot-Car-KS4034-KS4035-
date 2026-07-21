@@ -1,5 +1,9 @@
 # Mecanum Robot Car - KS4034 / KS4035
 
+<a href="https://github.com/VnncsB/Mecanum-Robot-Car-KS4034-KS4035-">
+<img src="https://github.com/VnncsB/Mecanum-Robot-Car-KS4034-KS4035-/blob/main/IMG-20260721-WA0016.jpg">
+</a>
+
 Projeto de robótica educacional desenvolvido com o kit **Keyestudio micro:bit 4WD Mecanum Robot Car Kit V2.0 (KS4034/KS4035)**, um carrinho robô de 4 rodas Mecanum controlado pela placa **BBC micro:bit**.
 
 ## Sobre o Projeto
